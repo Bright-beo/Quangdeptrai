@@ -1,0 +1,22 @@
+[
+  {"question":"Ich freue mich ___ deinen Besuch.","choices":["auf","über","an"],"answer":"auf"},
+  {"question":"Welcher Satz ist korrekt?","choices":["Er hat gestern ins Kino gegangen.","Er ist gestern ins Kino gegangen.","Er geht gestern ins Kino."],"answer":"Er ist gestern ins Kino gegangen."},
+  {"question":"Was passt? – Ich habe keine Zeit, ___ ich muss lernen.","choices":["aber","denn","oder"],"answer":"denn"},
+  {"question":"Wie heißt das Gegenteil von 'kalt'?","choices":["heiß","warm","trocken"],"answer":"heiß"},
+  {"question":"Welcher Artikel passt: ___ Auto ist schnell.","choices":["Der","Die","Das"],"answer":"Das"},
+  {"question":"Was ist kein Verb?","choices":["gehen","trinken","Haus"],"answer":"Haus"},
+  {"question":"Er wohnt ___ Berlin.","choices":["auf","in","zu"],"answer":"in"},
+  {"question":"Was ist richtig? – Ich ___ gestern krank.","choices":["war","bin","sein"],"answer":"war"},
+  {"question":"Was passt nicht?","choices":["lesen","schreiben","Tisch"],"answer":"Tisch"},
+  {"question":"Was ist ein Synonym für 'schnell'?","choices":["langsam","rasch","spät"],"answer":"rasch"},
+  {"question":"Ich gehe ___ Schule.","choices":["zu","in","zur"],"answer":"zur"},
+  {"question":"Der Film war sehr ___.","choices":["interessant","interesse","interessiert"],"answer":"interessant"},
+  {"question":"Wir fahren ___ Urlaub.","choices":["auf","im","in"],"answer":"in"},
+  {"question":"Ich muss das Buch ___.","choices":["lesen","liest","las"],"answer":"lesen"},
+  {"question":"Ich habe einen Hund, ___ sehr freundlich ist.","choices":["der","den","dem"],"answer":"der"},
+  {"question":"Sie hat ___ Apfel gegessen.","choices":["einen","eine","ein"],"answer":"einen"},
+  {"question":"Ich trinke lieber Tee ___ Kaffee.","choices":["als","oder","als wie"],"answer":"als"},
+  {"question":"Was ist kein Lebensmittel?","choices":["Brot","Wasser","Bleistift"],"answer":"Bleistift"},
+  {"question":"Er fährt mit dem ___ zur Arbeit.","choices":["Zug","Bus","Fahrrad"],"answer":"Bus"},
+  {"question":"Ich rufe dich morgen ___.","choices":["an","auf","zu"],"answer":"an"}
+]
